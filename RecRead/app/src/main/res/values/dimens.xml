@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="splash_screen_icon_size">108dp</dimen>
+  <dimen name="toolbar_icon_size">24dp</dimen>
+
+  <dimen name="margin_padding_xxs">4dp</dimen>
+  <dimen name="margin_padding_xs">8dp</dimen>
+  <dimen name="margin_padding_s">12dp</dimen>
+  <dimen name="margin_padding_m">16dp</dimen>
+  <dimen name="margin_padding_l">20dp</dimen>
+  <dimen name="margin_padding_xl">24dp</dimen>
+  <dimen name="margin_padding_xxl">32dp</dimen>
+
+</resources>
